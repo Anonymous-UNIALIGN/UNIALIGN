@@ -1,0 +1,16 @@
+# NAME: ScanObjectNN
+# DATA_PATH: ScanObjectNN
+# PC_PATH: meta_data/scanobjectnn/xyz_label.npy 
+# num_points: 8192 
+# clip_feat_path: data/openshape/meta_data/scanobjectnn/cat_name_pt_feat.npy
+# data_path: data/openshape/meta_data/scanobjectnn/xyz_label.npy
+# y_up: False
+# use_color: False
+# scanobjectnn:
+#   data_path: data/openshape/meta_data/scanobjectnn/xyz_label.npy
+#   num_points: 10000 
+#   clip_feat_path: data/openshape/meta_data/scanobjectnn/cat_name_pt_feat.npy
+#   y_up: True
+
+NAME: ScanObjectNN
+DATA_PATH: ScanObjectNN
